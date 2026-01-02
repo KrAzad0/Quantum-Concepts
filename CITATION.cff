@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use Quantum-Concepts in your research, please cite it as below."
+authors:
+  - family-names: "Azad"
+    given-names: "Kumar"
+    orcid: "https://orcid.org/0000-0003-4672-5840"
+title: "Quantum-Concepts: Foundational Quantum Mechanics Study Materials"
+description: "A comprehensive collection of quantum mechanics concepts, Stern-Gerlach experiments, and quantum treatment methodologies."
+repository-code: "https://github.com/KrAzad0/Quantum-Concepts"
+keywords:
+  - "quantum mechanics"
+  - "quantum concepts"
+  - "physics education"
+  - "stern-gerlach"
+license: "MIT"
